@@ -46,6 +46,7 @@ ___
      - Quantity of products sold: A bar chat showing clothing as the highest quantity of product sold in the category
      - Total revenue: A card showing the total sum of revenue
   ## pivot tables
+  [To view tables, click Here](https://ibb.co/ZY9NdFV)
 
   ___
  ### Conclusion
