@@ -48,7 +48,7 @@ ___
   ## pivot tables
   [To view tables, click Here](https://ibb.co/ZY9NdFV)
   ## Power BI Dashboard
-  [To view Dashboard, click here
+  [To view Dashboard, click here](https://ibb.co/c6Cdz95)
 
   ___
  ### Conclusion
