@@ -46,9 +46,11 @@ ___
      - Quantity of products sold: A bar chat showing clothing as the highest quantity of product sold in the category
      - Total revenue: A card showing the total sum of revenue
   ## pivot tables
-  [To view tables, click Here](https://ibb.co/ZY9NdFV)
+  [To view Tables, click Here](https://ibb.co/ZY9NdFV)
   ## Power BI Dashboard
-  [To view Dashboard, click here](https://ibb.co/c6Cdz95)
+  [To view Dashboard, click Here](https://ibb.co/c6Cdz95)
+  ## Pivot table Dashboard
+  [To view Dashboard, click Here](https://ibb.co/S3wVnG3)
 
   ___
  ### Conclusion
