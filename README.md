@@ -47,6 +47,8 @@ ___
      - Total revenue: A card showing the total sum of revenue
   ## pivot tables
   [To view tables, click Here](https://ibb.co/ZY9NdFV)
+  ## Power BI Dashboard
+  [To view Dashboard, click here
 
   ___
  ### Conclusion
